@@ -17,4 +17,11 @@ The script is somewhat general, but mainly tailored to my needs. If you want to 
 
 ## Snippets
 
-Coming up!
+My collections of snippets are only shorthands for symbols.
+
+* Apple Symbols: ⌘, ⌥, and the likes (access via `;cmd`)
+* Basic Symbols: →, ⇐, and other symbols I frequently use
+* Greek Letters: α, Ω, and other Greek letters (access via `;alpha`)
+* LaTeX Symbols: ◯, ⇓, ∇, ∫, ⋮, and other LaTeX-inspired symbols, which have Unicode equivalents (access via `;\int`)
+* Most Used Emoji: ⏱, and a few other Emojis, I use a lot (access via `;e:time`)
+* Slack Emoji: 👂, 👽, 👏, and other Emojis, which are accessible in Slack via `:emoji:` (access via `;e:alien`) 
